@@ -1,0 +1,32 @@
+{
+  "personal": {
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "phone": "",
+    "location": {
+      "city": "",
+      "state": "",
+      "country": "",
+      "zip_code": ""
+    }
+  },
+  "links": {
+    "linkedin": "",
+    "github": "",
+    "portfolio": ""
+  },
+  "work_authorization": {
+    "authorized_to_work_us": "",
+    "requires_sponsorship": "",
+    "willing_to_relocate": ""
+  },
+  "demographics_optional": {},
+  "files": {
+    "base_resume_pdf": ""
+  },
+  "experience_summary": "",
+  "work_history": [],
+  "education": []
+}
+

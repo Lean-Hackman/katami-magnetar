@@ -1,0 +1,18 @@
+[
+  {
+    "ats": "greenhouse",
+    "company": "Example Company",
+    "slug": "example"
+  },
+  {
+    "ats": "lever",
+    "company": "Another Example",
+    "slug": "another-example"
+  },
+  {
+    "ats": "ashby",
+    "company": "Third Example",
+    "slug": "third-example"
+  }
+]
+

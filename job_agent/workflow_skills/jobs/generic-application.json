@@ -1,0 +1,25 @@
+{
+  "name": "generic-application",
+  "mode": "jobs",
+  "hosts": [],
+  "instructions": "Use exact candidate facts and preserve existing values. Once inside the application form, look for a resume or CV upload control before manually filling individual fields. If a permitted resume is available, attempt that upload first, wait for parsing or autofill to finish, then inspect the form and preserve any populated values. If the form has no resume upload control or the upload is rejected, continue with the normal form workflow. Leave optional demographic questions blank, upload only permitted documents, and verify the receipt page after an approved final submission.",
+  "final_action_labels": [
+    "submit application",
+    "submit my application",
+    "send application",
+    "complete application",
+    "confirm and submit"
+  ],
+  "confirmation_markers": [
+    "application received",
+    "application submitted",
+    "thank you for applying"
+  ],
+  "field_hints": {
+    "given-name": "personal.first_name",
+    "family-name": "personal.last_name",
+    "email": "personal.email",
+    "tel": "personal.phone"
+  },
+  "version": 1
+}

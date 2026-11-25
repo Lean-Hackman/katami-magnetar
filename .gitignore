@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+candidate_profile.json
+boards.json
+job_queue.json
+applications.sqlite3
+browser_profile/
+output/
+campaign_observations/
+/workflow_skills/
+
